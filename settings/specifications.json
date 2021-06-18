@@ -1,0 +1,44 @@
+{
+  "description":{
+        "X": [
+            "battery_power", 
+            "blue",
+            "dual_sim", 
+            "fc", 
+            "int_memory", 
+            "mobile_wt",
+            "pc", 
+            "px_height", 
+            "px_width", 
+            "ram",
+            "sc_h", 
+            "sc_w", 
+            "talk_time", 
+            "three_g", 
+            "touch_screen", 
+            "wifi"
+        ],
+        "final_columns":[
+                    "battery_power", 
+                    "blue",
+                    "dual_sim", 
+                    "fc", 
+                    "int_memory", 
+                    "mobile_wt",
+                    "pc", 
+                    "px_height", 
+                    "px_width", 
+                    "ram",
+                    "sc_h", 
+                    "sc_w", 
+                    "talk_time", 
+                    "three_g", 
+                    "touch_screen", 
+                    "wifi"
+                ],
+        "y":"price_range",
+        "metrics":"accuracy_score"
+  },
+  "operations":[
+      ]
+}
